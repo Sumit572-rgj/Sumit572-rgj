@@ -30,7 +30,7 @@ Email Me 👉 ✉️ **chaurasiyasumit398@gmail.com** For Collaboration/Project 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
