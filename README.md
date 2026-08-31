@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **chaurasiyasumit398@gmail.com** For Collaboration/Project 
 - 🔭 **I’m currently working on:** School Management System Project
 - 🌱 **I’m currently learning:** Enter your tech here
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🤔 **I’m looking for help with:** Nepal Police Management System
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** chaurasiyasumit398@gmail.com
 - 😄 **Pronouns:** Rhythm
