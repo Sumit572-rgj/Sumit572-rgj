@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Meeee
 
 - 🔭 **Currently working on:** School Management System & Nepal Police Management System
 - 🌱 **Currently learning:** Advanced Cloud Infrastructure (Kubernetes, Terraform) & CI/CD Pipelines
