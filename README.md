@@ -77,7 +77,7 @@
 
 ---
 
-## 🐍 Contribution Graph & Activity
+## 🐍 Contribution Graph And Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sumit572-rgj/Sumit572-rgj/output/github-contribution-grid-snake.svg" alt="Snake animation" />
