@@ -10,7 +10,7 @@
 ## 🚀 About Meeee
 
 - 🔭 **Currently working on:** School Management System & Nepal Police Management System
-- 🌱 **Currently learning:** Advanced Cloud Infrastructure (Kubernetes, Terraform) & CI/CD Pipelines
+- 🌱 **Currently learning:** React Advanced Cloud Infrastructure (Kubernetes, Terraform) & CI/CD Pipelines
 - 👯 **Looking to collaborate on:** Open-source DevOps tools & Full-Stack Web/Mobile Applications
 - 🤔 **Looking for help with:** Scalable Architecture for Nepal Police Management System
 - 💬 **Ask me about:** DevOps, React, Web Development, System Architecture & Cloud Setup
