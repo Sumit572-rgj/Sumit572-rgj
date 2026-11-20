@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Sumit Chaurasiya
+# 💫✨ Hi 👋, I'm Sumit Chaurasiya
 ### **Software Engineer || DevOps Engineer**
 
 <a href="mailto:chaurasiyasumit398@gmail.com">
